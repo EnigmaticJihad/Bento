@@ -11,14 +11,14 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Zed',
+	name: 'Zed!',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
 
 	// Greetings
-	greetingMorning: 'Rise & Shine!',
-	greetingAfternoon: 'Coffee time!,',
+	greetingMorning: 'Rise & Shine,',
+	greetingAfternoon: 'Coffee time,,',
 	greetingEvening: 'Work work work,',
 	greetingNight: 'Butterfly\'s calling,',
 
